@@ -1,0 +1,1873 @@
+[{
+	"valueList": [{
+		"value": "A",
+		"id": "A"
+	}, {
+		"value": "A:1",
+		"id": "A:1"
+	}, {
+		"value": "A:2",
+		"id": "A:2"
+	}, {
+		"value": "A:3",
+		"id": "A:3"
+	}, {
+		"value": "A:3-5",
+		"id": "A:3-5"
+	}, {
+		"value": "A / RPAC",
+		"id": "A / RPAC"
+	}, {
+		"value": "A - RP Lite",
+		"id": "A - RP Lite"
+	}, {
+		"value": "B",
+		"id": "B"
+	}, {
+		"value": "B / RPAC",
+		"id": "B / RPAC"
+	}, {
+		"value": "B - Moveable Middle",
+		"id": "B - Moveable Middle"
+	}, {
+		"value": "Business Retirement Plan (BRP)",
+		"id": "Business Retirement Plan (BRP)"
+	}, {
+		"value": "C",
+		"id": "C"
+	}, {
+		"value": "C / RPAC",
+		"id": "C / RPAC"
+	}, {
+		"value": "C - 401k producer",
+		"id": "C - 401k producer"
+	}, {
+		"value": "Corporate Retirement Director (CRD)",
+		"id": "Corporate Retirement Director (CRD)"
+	}, {
+		"value": "Corporate Retirement Plan (CRP)",
+		"id": "Corporate Retirement Plan (CRP)"
+	}, {
+		"value": "DCAG",
+		"id": "DCAG"
+	}, {
+		"value": "DCAG / SRPC",
+		"id": "DCAG / SRPC"
+	}, {
+		"value": "DC Designated Program",
+		"id": "DC Designated Program"
+	}, {
+		"value": "DCIC",
+		"id": "DCIC"
+	}, {
+		"value": "Defined Contribution Advisory Group (DCAG)",
+		"id": "Defined Contribution Advisory Group (DCAG)"
+	}, {
+		"value": "Emerging",
+		"id": "Emerging"
+	}, {
+		"value": "Fiduciary Investment Advisor (FIA)",
+		"id": "Fiduciary Investment Advisor (FIA)"
+	}, {
+		"value": "Focus",
+		"id": "Focus"
+	}, {
+		"value": "Graystone/ICD",
+		"id": "Graystone/ICD"
+	}, {
+		"value": "Institutional Consulting Advisor",
+		"id": "Institutional Consulting Advisor"
+	}, {
+		"value": "MML Plan Solutions",
+		"id": "MML Plan Solutions"
+	}, {
+		"value": "Moveable Middle",
+		"id": "Moveable Middle"
+	}, {
+		"value": "Network",
+		"id": "Network"
+	}, {
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "Non-Specialized",
+		"id": "Non-Specialized"
+	}, {
+		"value": "RBC",
+		"id": "RBC"
+	}, {
+		"value": "Retirement Benefits Consultant",
+		"id": "Retirement Benefits Consultant"
+	}, {
+		"value": "Retirement Plan Advisory Council (RPAC)",
+		"id": "Retirement Plan Advisory Council (RPAC)"
+	}, {
+		"value": "Retirement Plan Advisory Group (RPAG)",
+		"id": "Retirement Plan Advisory Group (RPAG)"
+	}, {
+		"value": "Retirement Plan Advisory Program (RPAP)",
+		"id": "Retirement Plan Advisory Program (RPAP)"
+	}, {
+		"value": "Retirement Plan Consulting Program (RPCP)",
+		"id": "Retirement Plan Consulting Program (RPCP)"
+	}, {
+		"value": "RPAC",
+		"id": "RPAC"
+	}, {
+		"value": "RPC",
+		"id": "RPC"
+	}, {
+		"value": "RPC/Core IC",
+		"id": "RPC/Core IC"
+	}, {
+		"value": "RPC/Senior IC",
+		"id": "RPC/Senior IC"
+	}, {
+		"value": "RPCS",
+		"id": "RPCS"
+	}, {
+		"value": "RP Intentionalist",
+		"id": "RP Intentionalist"
+	}, {
+		"value": "Service Level= / RIA= / RPG Member=No",
+		"id": "Service Level= / RIA= / RPG Member=No"
+	}, {
+		"value": "Service Level= / RIA=Dual Registration / RPG Member=No",
+		"id": "Service Level= / RIA=Dual Registration / RPG Member=No"
+	}, {
+		"value": "Service Level= / RIA=Hybrid / RPG Member=No",
+		"id": "Service Level= / RIA=Hybrid / RPG Member=No"
+	}, {
+		"value": "Service Level= / RIA=None / RPG Member=No",
+		"id": "Service Level= / RIA=None / RPG Member=No"
+	}, {
+		"value": "Service Level= / RIA=RPCP / RPG Member=No",
+		"id": "Service Level= / RIA=RPCP / RPG Member=No"
+	}, {
+		"value": "Service Level= / RIA=RPCP Application Pending / RPG Member=No",
+		"id": "Service Level= / RIA=RPCP Application Pending / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA= / RPG Member=No",
+		"id": "Service Level=Core / RIA= / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=Dual Registration / RPG Member=No",
+		"id": "Service Level=Core / RIA=Dual Registration / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No",
+		"id": "Service Level=Core / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=Yes",
+		"id": "Service Level=Core / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Core / RIA=Hybrid / RPG Member=No",
+		"id": "Service Level=Core / RIA=Hybrid / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=None / RPG Member=No",
+		"id": "Service Level=Core / RIA=None / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=RPCP / RPG Member=No",
+		"id": "Service Level=Core / RIA=RPCP / RPG Member=No"
+	}, {
+		"value": "Service Level=Core / RIA=RPCP Application Pending / RPG Member=No",
+		"id": "Service Level=Core / RIA=RPCP Application Pending / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA= / RPG Member=No",
+		"id": "Service Level=Executive / RIA= / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=Application Pending / RPG Member=No",
+		"id": "Service Level=Executive / RIA=Application Pending / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=Dual Registration / RPG Member=No",
+		"id": "Service Level=Executive / RIA=Dual Registration / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=Dual Registration / RPG Member=Yes",
+		"id": "Service Level=Executive / RIA=Dual Registration / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Executive / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No",
+		"id": "Service Level=Executive / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=Yes",
+		"id": "Service Level=Executive / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Executive / RIA=Hybrid / RPG Member=No",
+		"id": "Service Level=Executive / RIA=Hybrid / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=Hybrid / RPG Member=Yes",
+		"id": "Service Level=Executive / RIA=Hybrid / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Executive / RIA=None / RPG Member=No",
+		"id": "Service Level=Executive / RIA=None / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=None / RPG Member=Yes",
+		"id": "Service Level=Executive / RIA=None / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Executive / RIA=RPCP / RPG Member=No",
+		"id": "Service Level=Executive / RIA=RPCP / RPG Member=No"
+	}, {
+		"value": "Service Level=Executive / RIA=RPCP / RPG Member=Yes",
+		"id": "Service Level=Executive / RIA=RPCP / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Executive / RIA=RPCP Application Pending / RPG Member=No",
+		"id": "Service Level=Executive / RIA=RPCP Application Pending / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA= / RPG Member=No",
+		"id": "Service Level=Masters / RIA= / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=Application Pending / RPG Member=No",
+		"id": "Service Level=Masters / RIA=Application Pending / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=Dual Registration / RPG Member=No",
+		"id": "Service Level=Masters / RIA=Dual Registration / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=Dual Registration / RPG Member=Yes",
+		"id": "Service Level=Masters / RIA=Dual Registration / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Masters / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No",
+		"id": "Service Level=Masters / RIA=Dual Reg Pending (add LPL RIA) / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=Hybrid / RPG Member=No",
+		"id": "Service Level=Masters / RIA=Hybrid / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=None / RPG Member=No",
+		"id": "Service Level=Masters / RIA=None / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=RPCP / RPG Member=No",
+		"id": "Service Level=Masters / RIA=RPCP / RPG Member=No"
+	}, {
+		"value": "Service Level=Masters / RIA=RPCP / RPG Member=Yes",
+		"id": "Service Level=Masters / RIA=RPCP / RPG Member=Yes"
+	}, {
+		"value": "Service Level=Masters / RIA=RPCP Application Pending / RPG Member=No",
+		"id": "Service Level=Masters / RIA=RPCP Application Pending / RPG Member=No"
+	}, {
+		"value": "Small Plan Seller",
+		"id": "Small Plan Seller"
+	}, {
+		"value": "SRPC",
+		"id": "SRPC"
+	}, {
+		"value": "SRPC/Core IC",
+		"id": "SRPC/Core IC"
+	}, {
+		"value": "SRPC/Senior IC",
+		"id": "SRPC/Senior IC"
+	}],
+	"id": "Contact.Dealer_Advisor_Segmentation__c"
+}, {
+	"valueList": [{
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "A1 - Priority",
+		"id": "A1 - Priority"
+	}, {
+		"value": "A2 - Priority",
+		"id": "A2 - Priority"
+	}, {
+		"value": "HP1 - High Potential Prospects",
+		"id": "HP1 - High Potential Prospects"
+	}, {
+		"value": "HP2 - High Potential Prospects",
+		"id": "HP2 - High Potential Prospects"
+	}, {
+		"value": "B - Medium Priority",
+		"id": "B - Medium Priority"
+	}, {
+		"value": "C - Long Tail",
+		"id": "C - Long Tail"
+	}, {
+		"value": "I - Incomplete",
+		"id": "I - Incomplete"
+	}, {
+		"value": "DW-A",
+		"id": "DW-A"
+	}, {
+		"value": "DW-HP",
+		"id": "DW-HP"
+	}, {
+		"value": "DW-B",
+		"id": "DW-B"
+	}, {
+		"value": "DW-C",
+		"id": "DW-C"
+	}, {
+		"value": "CA-A",
+		"id": "CA-A"
+	}, {
+		"value": "CA-HP",
+		"id": "CA-HP"
+	}, {
+		"value": "CA-B",
+		"id": "CA-B"
+	}, {
+		"value": "CA-C",
+		"id": "CA-C"
+	}, {
+		"value": "CA-X",
+		"id": "CA-X"
+	}],
+	"id": "Contact.Retail_Segmentation__c"
+}, {
+	"valueList": [{
+		"value": "Bank/CU",
+		"id": "Bank/CU"
+	}, {
+		"value": "CFS Associate",
+		"id": "CFS Associate"
+	}, {
+		"value": "FA",
+		"id": "FA"
+	}, {
+		"value": "FID",
+		"id": "FID"
+	}, {
+		"value": "FR",
+		"id": "FR"
+	}, {
+		"value": "Hybrid RIA",
+		"id": "Hybrid RIA"
+	}, {
+		"value": "IAD",
+		"id": "IAD"
+	}, {
+		"value": "ICD",
+		"id": "ICD"
+	}, {
+		"value": "Independent",
+		"id": "Independent"
+	}, {
+		"value": "Insurance Only",
+		"id": "Insurance Only"
+	}, {
+		"value": "LBE",
+		"id": "LBE"
+	}, {
+		"value": "Level 1",
+		"id": "Level 1"
+	}, {
+		"value": "Level 2",
+		"id": "Level 2"
+	}, {
+		"value": "Level 3",
+		"id": "Level 3"
+	}, {
+		"value": "Level 4",
+		"id": "Level 4"
+	}, {
+		"value": "Levels 5, 6, 7",
+		"id": "Levels 5, 6, 7"
+	}, {
+		"value": "Levels 8, 9, 10",
+		"id": "Levels 8, 9, 10"
+	}, {
+		"value": "NEW",
+		"id": "NEW"
+	}, {
+		"value": "RIA",
+		"id": "RIA"
+	}, {
+		"value": "RJA",
+		"id": "RJA"
+	}, {
+		"value": "WMA",
+		"id": "WMA"
+	}],
+	"id": "Contact.Dealer_Segment__c"
+}, {
+	"valueList": [{
+		"value": "Advisory Council Meeting",
+		"id": "Advisory Council Meeting"
+	}, {
+		"value": "Barron’s Top 1000 FAs",
+		"id": "Barron’s Top 1000 FAs"
+	}, {
+		"value": "CW Model Tgt",
+		"id": "CW Model Tgt"
+	}, {
+		"value": "DCFF Target",
+		"id": "DCFF Target"
+	}, {
+		"value": "DCRC",
+		"id": "DCRC"
+	}, {
+		"value": "DFIM Top FI Targets",
+		"id": "DFIM Top FI Targets"
+	}, {
+		"value": "Envestnet SNA Tgt",
+		"id": "Envestnet SNA Tgt"
+	}, {
+		"value": "F2D Restricted",
+		"id": "F2D Restricted"
+	}, {
+		"value": "FT Top 401 Retirement Advisors",
+		"id": "FT Top 401 Retirement Advisors"
+	}, {
+		"value": "IRA Heavy",
+		"id": "IRA Heavy"
+	}, {
+		"value": "IRA High Risk",
+		"id": "IRA High Risk"
+	}, {
+		"value": "LPL Model Tgt",
+		"id": "LPL Model Tgt"
+	}, {
+		"value": "LPL SMA Tgt",
+		"id": "LPL SMA Tgt"
+	}, {
+		"value": "LPL Top 1500",
+		"id": "LPL Top 1500"
+	}, {
+		"value": "ML PBIG",
+		"id": "ML PBIG"
+	}, {
+		"value": "Model Lead",
+		"id": "Model Lead"
+	}, {
+		"value": "Model Surge Tgt",
+		"id": "Model Surge Tgt"
+	}, {
+		"value": "MS Chairman’s Club",
+		"id": "MS Chairman’s Club"
+	}, {
+		"value": "MS Model Tgt",
+		"id": "MS Model Tgt"
+	}, {
+		"value": "MS President’s Club",
+		"id": "MS President’s Club"
+	}, {
+		"value": "RBC RIC",
+		"id": "RBC RIC"
+	}, {
+		"value": "RJ Model Tgt",
+		"id": "RJ Model Tgt"
+	}, {
+		"value": "RPSC Focus",
+		"id": "RPSC Focus"
+	}, {
+		"value": "Top SMA Sellers",
+		"id": "Top SMA Sellers"
+	}, {
+		"value": "WF Top Quintile Advisory",
+		"id": "WF Top Quintile Advisory"
+	}, {
+		"value": "WS Top FI Targets",
+		"id": "WS Top FI Targets"
+	}, {
+		"value": "-None-",
+		"id": "-None-"
+	}],
+	"id": "Contact.Coverage_Alert__c"
+}, {
+	"valueList": [{
+		"value": "Heavy RP",
+		"id": "Heavy RP"
+	}, {
+		"value": "Light RP",
+		"id": "Light RP"
+	}, {
+		"value": "Moveable Middle",
+		"id": "Moveable Middle"
+	}, {
+		"value": "SEP SIMPLE",
+		"id": "SEP SIMPLE"
+	}],
+	"id": "Contact.RP_Segment__c"
+}, {
+	"valueList": [{
+		"value": "A",
+		"id": "A"
+	}, {
+		"value": "HP",
+		"id": "HP"
+	}, {
+		"value": "B",
+		"id": "B"
+	}, {
+		"value": "C",
+		"id": "C"
+	}, {
+		"value": "D",
+		"id": "D"
+	}, {
+		"value": "E",
+		"id": "E"
+	}, {
+		"value": "F",
+		"id": "F"
+	}],
+	"id": "Contact.RP_Classification__c"
+}, {
+	"valueList": [{
+		"value": "American Century",
+		"id": "American Century"
+	}, {
+		"value": "American Funds",
+		"id": "American Funds"
+	}, {
+		"value": "Blackrock",
+		"id": "Blackrock"
+	}, {
+		"value": "Custom",
+		"id": "Custom"
+	}, {
+		"value": "Fidelity",
+		"id": "Fidelity"
+	}, {
+		"value": "John Hancock",
+		"id": "John Hancock"
+	}, {
+		"value": "JP Morgan",
+		"id": "JP Morgan"
+	}, {
+		"value": "Manning & Napier",
+		"id": "Manning & Napier"
+	}, {
+		"value": "MFS",
+		"id": "MFS"
+	}, {
+		"value": "Models -ML GoalManager",
+		"id": "Models -ML GoalManager"
+	}, {
+		"value": "Models-Pru GoalMaker",
+		"id": "Models-Pru GoalMaker"
+	}, {
+		"value": "Other",
+		"id": "Other"
+	}, {
+		"value": "PIMCO",
+		"id": "PIMCO"
+	}, {
+		"value": "Principal Life",
+		"id": "Principal Life"
+	}, {
+		"value": "Schwab",
+		"id": "Schwab"
+	}, {
+		"value": "T. Rowe Price",
+		"id": "T. Rowe Price"
+	}, {
+		"value": "TIAA-CREF",
+		"id": "TIAA-CREF"
+	}, {
+		"value": "Transamerica",
+		"id": "Transamerica"
+	}, {
+		"value": "Vanguard",
+		"id": "Vanguard"
+	}, {
+		"value": "Vantagepoint",
+		"id": "Vantagepoint"
+	}, {
+		"value": "Wells Fargo",
+		"id": "Wells Fargo"
+	}],
+	"id": "Contact.Preferred_Target_Date_Provider_1__c"
+}, {
+	"valueList": [{
+		"value": "January",
+		"id": "January"
+	}, {
+		"value": "February",
+		"id": "February"
+	}, {
+		"value": "March",
+		"id": "March"
+	}, {
+		"value": "April",
+		"id": "April"
+	}, {
+		"value": "May",
+		"id": "May"
+	}, {
+		"value": "June",
+		"id": "June"
+	}, {
+		"value": "July",
+		"id": "July"
+	}, {
+		"value": "August",
+		"id": "August"
+	}, {
+		"value": "September",
+		"id": "September"
+	}, {
+		"value": "October",
+		"id": "October"
+	}, {
+		"value": "November",
+		"id": "November"
+	}, {
+		"value": "December",
+		"id": "December"
+	}],
+	"id": "Contact.Month__c"
+}, {
+	"valueList": [{
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "ADP",
+		"id": "ADP"
+	}, {
+		"value": "AIG",
+		"id": "AIG"
+	}, {
+		"value": "Alerus",
+		"id": "Alerus"
+	}, {
+		"value": "American Funds",
+		"id": "American Funds"
+	}, {
+		"value": "Ascensus",
+		"id": "Ascensus"
+	}, {
+		"value": "ASPire",
+		"id": "ASPire"
+	}, {
+		"value": "Black Rock",
+		"id": "Black Rock"
+	}, {
+		"value": "CPI",
+		"id": "CPI"
+	}, {
+		"value": "DAC",
+		"id": "DAC"
+	}, {
+		"value": "DRS",
+		"id": "DRS"
+	}, {
+		"value": "Empower",
+		"id": "Empower"
+	}, {
+		"value": "ExpertPlan",
+		"id": "ExpertPlan"
+	}, {
+		"value": "Fidelity",
+		"id": "Fidelity"
+	}, {
+		"value": "Fidelity Adviser",
+		"id": "Fidelity Adviser"
+	}, {
+		"value": "Hartford",
+		"id": "Hartford"
+	}, {
+		"value": "Indian",
+		"id": "Indian"
+	}, {
+		"value": "John Hancock",
+		"id": "John Hancock"
+	}, {
+		"value": "Lincoln",
+		"id": "Lincoln"
+	}, {
+		"value": "Mass Mutual",
+		"id": "Mass Mutual"
+	}, {
+		"value": "Merrill Lynch",
+		"id": "Merrill Lynch"
+	}, {
+		"value": "Merrill Lynch / MLII",
+		"id": "Merrill Lynch / MLII"
+	}, {
+		"value": "Nationwide",
+		"id": "Nationwide"
+	}, {
+		"value": "Newport",
+		"id": "Newport"
+	}, {
+		"value": "NY Life",
+		"id": "NY Life"
+	}, {
+		"value": "One America",
+		"id": "One America"
+	}, {
+		"value": "Other",
+		"id": "Other"
+	}, {
+		"value": "PAI",
+		"id": "PAI"
+	}, {
+		"value": "Paychex",
+		"id": "Paychex"
+	}, {
+		"value": "Principal",
+		"id": "Principal"
+	}, {
+		"value": "Prudential",
+		"id": "Prudential"
+	}, {
+		"value": "Putnam",
+		"id": "Putnam"
+	}, {
+		"value": "Standard Insurance Co",
+		"id": "Standard Insurance Co"
+	}, {
+		"value": "Transamerica",
+		"id": "Transamerica"
+	}, {
+		"value": "Vanguard",
+		"id": "Vanguard"
+	}, {
+		"value": "Verisight",
+		"id": "Verisight"
+	}, {
+		"value": "Voya",
+		"id": "Voya"
+	}, {
+		"value": "Wells Fargo",
+		"id": "Wells Fargo"
+	}],
+	"id": "Contact.Top_Provider_2__c"
+}, {
+	"valueList": [{
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "Less than 1 mill",
+		"id": "Less than 1 mill"
+	}, {
+		"value": "1-10 mill",
+		"id": "1-10 mill"
+	}, {
+		"value": "10+ mill",
+		"id": "10+ mill"
+	}],
+	"id": "Contact.Plan_Size_Preference__c"
+}, {
+	"valueList": [{
+		"value": "0",
+		"id": "0"
+	}, {
+		"value": "10",
+		"id": "10"
+	}, {
+		"value": "20",
+		"id": "20"
+	}, {
+		"value": "30",
+		"id": "30"
+	}, {
+		"value": "40",
+		"id": "40"
+	}, {
+		"value": "50",
+		"id": "50"
+	}, {
+		"value": "60",
+		"id": "60"
+	}, {
+		"value": "70",
+		"id": "70"
+	}, {
+		"value": "80",
+		"id": "80"
+	}, {
+		"value": "90",
+		"id": "90"
+	}, {
+		"value": "100",
+		"id": "100"
+	}],
+	"id": "Advisory_Platform_Preference__c.Percent_of_Business__c"
+}, {
+	"valueList": [{
+		"value": "MassMutual: TEST Platform",
+		"id": "a1E4F00000016AVUAY"
+	}, {
+		"value": "RBC: RBC Capital Consulting",
+		"id": "a1E0y0000076NH0EAM"
+	}, {
+		"value": "Janney Montgomery Scott: Pioneer",
+		"id": "a1E0y0000076NH1EAM"
+	}, {
+		"value": "Assetmark: AssetMark",
+		"id": "a1E0y0000076NH2EAM"
+	}, {
+		"value": "Robert W. Baird: Advisory Choice",
+		"id": "a1E0y0000076NH3EAM"
+	}, {
+		"value": "Raymond James Group: American Funds Model Portfolios",
+		"id": "a1E0y0000076NH4EAM"
+	}, {
+		"value": "Advisor Group: Vision 20/20 Wealth Management  Advisor Managed Portfolios (AMP)",
+		"id": "a1E0y0000076NH6EAM"
+	}, {
+		"value": "Advisor Group: Vision 20/20 Wealth Management UMA",
+		"id": "a1E0y0000076NH7EAM"
+	}, {
+		"value": "Advisor Group: Vision 2020 Wealth Management - Model Portfolios",
+		"id": "a1E0y0000076NH9EAM"
+	}, {
+		"value": "Advisor Group: Vision 2020 Wealth Management - SMA",
+		"id": "a1E0y0000076NHAEA2"
+	}, {
+		"value": "HTK: American Funds Model Portfolios",
+		"id": "a1E0y0000076NHBEA2"
+	}, {
+		"value": "HTK: PAM",
+		"id": "a1E0y0000076NHCEA2"
+	}, {
+		"value": "HTK: FSA",
+		"id": "a1E0y0000076NHDEA2"
+	}, {
+		"value": "HTK: HTK UMA",
+		"id": "a1E0y0000076NHEEA2"
+	}, {
+		"value": "Cetera Financial Group: AssetMark",
+		"id": "a1E0y0000076NHFEA2"
+	}, {
+		"value": "Cetera Financial Group: Cetera FSP (Envestnet)",
+		"id": "a1E0y0000076NHGEA2"
+	}, {
+		"value": "Deutsche Bank: NDA Select",
+		"id": "a1E0y0000076NJ2EAM"
+	}, {
+		"value": "Goldman Sachs: Managed 360",
+		"id": "a1E0y0000076NJ3EAM"
+	}, {
+		"value": "Ladenburg Thalmann Group: LTAM (Ladenburg Thalmann Asset Management",
+		"id": "a1E0y0000076NJ4EAM"
+	}, {
+		"value": "Commonwealth: AssetMark",
+		"id": "a1E0y0000076NJ5EAM"
+	}, {
+		"value": "Commonwealth: PPS Direct UMA",
+		"id": "a1E0y0000076NJ6EAM"
+	}, {
+		"value": "Commonwealth: PPS Direct Mutual Fund Wrap",
+		"id": "a1E0y0000076NJ7EAM"
+	}, {
+		"value": "Commonwealth: Retirement Plan Consulting",
+		"id": "a1E0y0000076NJ8EAM"
+	}, {
+		"value": "D.A. Davidson & Co.: D.A. Davidson UMA",
+		"id": "a1E0y0000076NJ9EAM"
+	}, {
+		"value": "Hefren-Tillotson: Advisory Account",
+		"id": "a1E0y0000076NJAEA2"
+	}, {
+		"value": "Hefren-Tillotson: Managed Account",
+		"id": "a1E0y0000076NJBEA2"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Opportunity",
+		"id": "a1E0y0000076NJCEA2"
+	}, {
+		"value": "Key Bank Organization: Managed 360",
+		"id": "a1E0y0000076NJDEA2"
+	}, {
+		"value": "KMS Financial Services, Inc. Organization: Managed 360",
+		"id": "a1E0y0000076NJEEA2"
+	}, {
+		"value": "Triad Advisors LLC Organization: Apex",
+		"id": "a1E0y0000076NJFEA2"
+	}, {
+		"value": "Triad Advisors LLC Organization: Pinnacle",
+		"id": "a1E0y0000076NJGEA2"
+	}, {
+		"value": "Securities America, Inc. Organization: FAP (Financial Advisors Program)",
+		"id": "a1E0y0000076NJHEA2"
+	}, {
+		"value": "Robert W. Baird: Align: Custom",
+		"id": "a1E1A000008nSHrUAM"
+	}, {
+		"value": "Robert W. Baird: Align: Strategic",
+		"id": "a1E1A000008nSHwUAM"
+	}, {
+		"value": "Wells Fargo Network: Masters: SMA",
+		"id": "a1E1A000008nTM6UAM"
+	}, {
+		"value": "Wells Fargo Network: Private Advisor Network: SMA",
+		"id": "a1E1A000008nTMGUA2"
+	}, {
+		"value": "D.A. Davidson & Co.: Managed Funds Portfolios (MFP)",
+		"id": "a1E1A000008nU6fUAE"
+	}, {
+		"value": "D.A. Davidson & Co.: Paragon",
+		"id": "a1E1A000008nU6kUAE"
+	}, {
+		"value": "D.A. Davidson & Co.: Choice",
+		"id": "a1E1A000008nU6pUAE"
+	}, {
+		"value": "D.A. Davidson & Co.: Managed Account Consulting (MAC)",
+		"id": "a1E1A000008nU6zUAE"
+	}, {
+		"value": "D.A. Davidson & Co.: Separate Account Management (SAM)",
+		"id": "a1E1A000008nU74UAE"
+	}, {
+		"value": "Stifel, Nicolaus: Spectrum",
+		"id": "a1E1A000008nWuZUAU"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Score:",
+		"id": "a1E1A000008nWueUAE"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Custom Advisory Portfolios (CAP)",
+		"id": "a1E1A000008nWutUAE"
+	}, {
+		"value": "Edward Jones: Guided Solutions-Flex",
+		"id": "a1E1A000008nXZHUA2"
+	}, {
+		"value": "Raymond James Group: Passport",
+		"id": "a1EC0000000zGY3MAM"
+	}, {
+		"value": "Cetera Financial Group: PAM (Preferred Asset Management)",
+		"id": "a1EC0000000zGYHMA2"
+	}, {
+		"value": "Cetera Financial Group: PRIME",
+		"id": "a1EC0000000zGYIMA2"
+	}, {
+		"value": "Cetera Financial Group: Premier (new version of PAM/PRIME)",
+		"id": "a1EC0000000zGYKMA2"
+	}, {
+		"value": "Cetera Financial Group: Next Generation Managed Accounts (xMA) Program",
+		"id": "a1EC0000000zGYRMA2"
+	}, {
+		"value": "Commonwealth: Preferred Portfolio Services (PPS) Custom",
+		"id": "a1EC0000000zGYXMA2"
+	}, {
+		"value": "Commonwealth: PPS Select",
+		"id": "a1EC0000000zGYYMA2"
+	}, {
+		"value": "Commonwealth: PPS Direct SMA",
+		"id": "a1EC0000000zGYZMA2"
+	}, {
+		"value": "RBC: RBC Advisor",
+		"id": "a1EC0000000zGYbMAM"
+	}, {
+		"value": "RBC: Total Portfolio (UMA)",
+		"id": "a1EC0000000zGYcMAM"
+	}, {
+		"value": "NMIS: Signature Choice",
+		"id": "a1EC0000000zGYeMAM"
+	}, {
+		"value": "NMIS: Signature Portfolios",
+		"id": "a1EC0000000zGYgMAM"
+	}, {
+		"value": "Cetera Financial Group: My Advice Architect: Advisor Program",
+		"id": "a1E0y0000076NHIEA2"
+	}, {
+		"value": "Cetera Financial Group: My Advice Architect: Guided Program",
+		"id": "a1E0y0000076NHJEA2"
+	}, {
+		"value": "Cetera Financial Group: Mutual Funds/ETFs Advisory Program (MF/ETF)",
+		"id": "a1E0y0000076NHKEA2"
+	}, {
+		"value": "Cetera Financial Group: My Advice Architect - Unified",
+		"id": "a1E0y0000076NHLEA2"
+	}, {
+		"value": "Cetera Financial Group: Managed Wealth ADVANTAGE (MWA)",
+		"id": "a1E0y0000076NHMEA2"
+	}, {
+		"value": "Merrill Lynch Banc of America: Merrill Lynch One: Managed",
+		"id": "a1E0y0000076NHNEA2"
+	}, {
+		"value": "Merrill Lynch Banc of America: Retirement Capital Solutions - FAS",
+		"id": "a1E0y0000076NHOEA2"
+	}, {
+		"value": "Merrill Lynch Banc of America: Retirement DCIC List",
+		"id": "a1E0y0000076NHPEA2"
+	}, {
+		"value": "Merrill Lynch Banc of America: SPA (SMA)",
+		"id": "a1E0y0000076NHQEA2"
+	}, {
+		"value": "Lincoln Financial Securities: Custom Mutual Fund Wrap",
+		"id": "a1E0y0000076NHREA2"
+	}, {
+		"value": "Lincoln Financial Securities: Custom SMA",
+		"id": "a1E0y0000076NHSEA2"
+	}, {
+		"value": "Lincoln Financial Securities: Custom UMA",
+		"id": "a1E0y0000076NHTEA2"
+	}, {
+		"value": "Lincoln Financial Securities: Custom Wealth Choice",
+		"id": "a1E0y0000076NHUEA2"
+	}, {
+		"value": "Lincoln Financial Advisors: Premier Plus with Separate Accounts",
+		"id": "a1E0y0000076NHVEA2"
+	}, {
+		"value": "Securities America, Inc. Organization: Managed Opportunities Advisor Directed",
+		"id": "a1E0y0000076NJIEA2"
+	}, {
+		"value": "Securities America, Inc. Organization: Managed Opportunities Fund Strategist",
+		"id": "a1E0y0000076NJJEA2"
+	}, {
+		"value": "Securities Service Network Inc. Organization: Enact",
+		"id": "a1E0y0000076NJKEA2"
+	}, {
+		"value": "Securities Service Network Inc. Organization: Encompass",
+		"id": "a1E0y0000076NJLEA2"
+	}, {
+		"value": "Investacorp, Inc. Organization: Parralel",
+		"id": "a1E0y0000076NJMEA2"
+	}, {
+		"value": "Investacorp, Inc. Organization: Structure Plus",
+		"id": "a1E0y0000076NJNEA2"
+	}, {
+		"value": "Investacorp, Inc. Organization: Target 10 Plus",
+		"id": "a1E0y0000076NJOEA2"
+	}, {
+		"value": "Pershing LLC Organization: FundVest Focus",
+		"id": "a1E0y0000076NJQEA2"
+	}, {
+		"value": "Pershing LLC Organization: FundVest Institutional",
+		"id": "a1E0y0000076NJREA2"
+	}, {
+		"value": "US Bank N.A. (aka Firstar Trust Co) Organization: Managed 360",
+		"id": "a1E0y0000076NJSEA2"
+	}, {
+		"value": "U.S. Trust Company: Managed 360",
+		"id": "a1E0y0000076NJTEA2"
+	}, {
+		"value": "RBC: Portfolio Focus (Rep as PM)",
+		"id": "a1E0y0000076NJZEA2"
+	}, {
+		"value": "Waddell & Reed, Inc. Organization: MAPFlex",
+		"id": "a1E1A000008nZVhUAM"
+	}, {
+		"value": "Waddell & Reed, Inc. Organization: MAPLatitude",
+		"id": "a1E1A000008nZYEUA2"
+	}, {
+		"value": "Waddell & Reed, Inc. Organization: MAPNavigator",
+		"id": "a1E1A000008nZYYUA2"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: Asset Advisor",
+		"id": "a1E1A000008nc7dUAA"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: PIM",
+		"id": "a1E1A000008nc8MUAQ"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: Masters: SMA",
+		"id": "a1E1A000008nc8RUAQ"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: Private Advisor Network: SMA",
+		"id": "a1E1A000008nc8bUAA"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: FundSource",
+		"id": "a1E1A000008nc8gUAA"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: Fundamental Choice",
+		"id": "a1E1A000008nc8qUAA"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: CustomChoice",
+		"id": "a1E1A000008nc9rUAA"
+	}, {
+		"value": "RBC: Consulting Solutions - Money Managers",
+		"id": "a1E1A000008nkl7UAA"
+	}, {
+		"value": "RBC: Consulting Solutions - Speciality Portfolios",
+		"id": "a1E1A000008nklCUAQ"
+	}, {
+		"value": "Edward Jones: Guided Solutions-Fund",
+		"id": "a1E1A000008noNEUAY"
+	}, {
+		"value": "Lincoln Financial Advisors: Premier Plus",
+		"id": "a1EC0000000zGZ4MAM"
+	}, {
+		"value": "Lincoln Financial Advisors: Premier Manager Mutual Fund Wrap",
+		"id": "a1EC0000000zGZ5MAM"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Fundamentals",
+		"id": "a1EC0000000zGZ7MAM"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Solutions (Rep as PM)",
+		"id": "a1EC0000000zGZBMA2"
+	}, {
+		"value": "Unison",
+		"id": "a1EC0000000zGZCMA2"
+	}, {
+		"value": "Stifel, Nicolaus & Co: Horizon",
+		"id": "a1EC0000000zGZDMA2"
+	}, {
+		"value": "Model Wealth Portfolios (MWP)",
+		"id": "a1EC0000000zGZSMA2"
+	}, {
+		"value": "Janney Montgomery Scott: Partners Advisory",
+		"id": "a1EC0000000zGZaMAM"
+	}, {
+		"value": "Janney Montgomery Scott: Compass",
+		"id": "a1EC0000000zGZbMAM"
+	}, {
+		"value": "PNC Financial Services Group, Inc.: Capital Directions",
+		"id": "a1EC0000000zGZeMAM"
+	}, {
+		"value": "PNC Financial Services Group, Inc.: Portfolio Solutions",
+		"id": "a1EC0000000zGZfMAM"
+	}, {
+		"value": "Asset Management",
+		"id": "a1EC000000202BTMAY"
+	}, {
+		"value": "Lincoln Financial Advisors: Premier UMA",
+		"id": "a1E0y0000076NHWEA2"
+	}, {
+		"value": "LPL Group: AssetMark",
+		"id": "a1E0y0000076NHXEA2"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: CWM - Mutual Fund Advisory Program (MFAP)",
+		"id": "a1E0y0000076NHYEA2"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - Chase Strategic Portfolio",
+		"id": "a1E0y0000076NHZEA2"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - Horizon Select",
+		"id": "a1E0y0000076NHaEAM"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - JPM Core Advisory Portfolio",
+		"id": "a1E0y0000076NHbEAM"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - Portfolio Advisor",
+		"id": "a1E0y0000076NHcEAM"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - Portfolio Manager",
+		"id": "a1E0y0000076NHdEAM"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: Private Bank",
+		"id": "a1E0y0000076NHeEAM"
+	}, {
+		"value": "Voya Financial: AssetMark",
+		"id": "a1E0y0000076NHfEAM"
+	}, {
+		"value": "Voya Financial: PRIME",
+		"id": "a1E0y0000076NISEA2"
+	}, {
+		"value": "Voya Financial: CAP",
+		"id": "a1E0y0000076NITEA2"
+	}, {
+		"value": "Voya Financial: TAP",
+		"id": "a1E0y0000076NIUEA2"
+	}, {
+		"value": "Voya Financial: PAM",
+		"id": "a1E0y0000076NIVEA2"
+	}, {
+		"value": "Voya Financial: Portfolio Track Program",
+		"id": "a1E0y0000076NIWEA2"
+	}, {
+		"value": "Voya Financial: Voya Wealth Portfolios",
+		"id": "a1E0y0000076NIXEA2"
+	}, {
+		"value": "Assetmark: Retirement Services",
+		"id": "a1E0y000009GtzeEAC"
+	}, {
+		"value": "Assetmark: Assetmark Core Markets",
+		"id": "a1E0y000009GveUEAS"
+	}, {
+		"value": "Assetmark: Assetmark Diversifiers",
+		"id": "a1E0y000009GvfAEAS"
+	}, {
+		"value": "Assetmark: Assetmark Tactical",
+		"id": "a1E0y000009GvfoEAC"
+	}, {
+		"value": "Assetmark: Guided Portfolios",
+		"id": "a1E0y000009Gvg9EAC"
+	}, {
+		"value": "BMO Financial Group: Model Platform",
+		"id": "a1E0y000009M5Z0EAK"
+	}, {
+		"value": "BMO Financial Group: Envestnet - PMC Active for Income",
+		"id": "a1E0y000009M5aPEAS"
+	}, {
+		"value": "BMO Financial Group: BMO Choice",
+		"id": "a1E0y000009M5cbEAC"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: CWM - Opportunistic Advisory Program",
+		"id": "a1E0y000009MAzREAW"
+	}, {
+		"value": "AFD Direct Sales: Insurance Series Model Portfolios (AFIS)",
+		"id": "a1E0y000009MhryEAC"
+	}, {
+		"value": "Robert W. Baird: Client Selected Managers",
+		"id": "a1E0y000009MjR4EAK"
+	}, {
+		"value": "RBC: RBC UP",
+		"id": "a1E0y000009MjW1EAK"
+	}, {
+		"value": "Raymond James Group: OSM (Dual Contract SMA)",
+		"id": "a1E0y000009MjxjEAC"
+	}, {
+		"value": "AFD Direct Sales: CG SMA Dual Contract",
+		"id": "a1E0y000009MjzoEAC"
+	}, {
+		"value": "AFD Direct Sales: American Funds Portfolio Sleeves",
+		"id": "a1E0y000009MmtdEAC"
+	}, {
+		"value": "Envestnet: Rep as PM",
+		"id": "a1E0y000009Mq6KEAS"
+	}, {
+		"value": "Envestnet: UMA",
+		"id": "a1E0y000009Mq6tEAC"
+	}, {
+		"value": "Edward Jones: Advisory Solutions Program - UMA (Custom Model)",
+		"id": "a1E1A000008np9XUAQ"
+	}, {
+		"value": "Edward Jones: Advisory Solutions Program - Mutual Funds (Research Model)",
+		"id": "a1EC0000000zGWyMAM"
+	}, {
+		"value": "Edward Jones: Advisory Solutions Program - UMA (Research Model)",
+		"id": "a1EC0000000zGWzMAM"
+	}, {
+		"value": "Morgan Stanley Smith Barney: Consulting Group Advisor (CGA)",
+		"id": "a1EC0000000zGX1MAM"
+	}, {
+		"value": "Morgan Stanley Smith Barney: Portfolio Management (PM)",
+		"id": "a1EC0000000zGX2MAM"
+	}, {
+		"value": "Morgan Stanley Smith Barney: Select UMA",
+		"id": "a1EC0000000zGX3MAM"
+	}, {
+		"value": "Morgan Stanley Smith Barney: TRAK",
+		"id": "a1EC0000000zGX4MAM"
+	}, {
+		"value": "Merrill Lynch Banc of America: Merrill Lynch One: Personalized - Client or Advis",
+		"id": "a1EC0000000zGXJMA2"
+	}, {
+		"value": "Merrill Lynch Banc of America: Merrill Lynch One: Defined",
+		"id": "a1EC0000000zGXKMA2"
+	}, {
+		"value": "UBS: Managed Portfolio of MF (MPF)",
+		"id": "a1EC0000000zGXLMA2"
+	}, {
+		"value": "GWN Securities Inc. Organization: American Funds Direct Advisory",
+		"id": "a1E0y0000076NGlEAM"
+	}, {
+		"value": "FTJ FundChoice, LLC Organization: FTJ Fundchoice",
+		"id": "a1E0y0000076NGmEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: Omega",
+		"id": "a1E0y0000076NGnEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: PAS Directed",
+		"id": "a1E0y0000076NGoEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: PAS Flex",
+		"id": "a1E0y0000076NGpEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: PAS Managed",
+		"id": "a1E0y0000076NGqEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: Preference Advisory Program",
+		"id": "a1E0y0000076NGrEAM"
+	}, {
+		"value": "Oppenheimer & Co., Inc. Organization: Oppenheimer UMA",
+		"id": "a1E0y0000076NGsEAM"
+	}, {
+		"value": "BB&T Securities, LLC Organization: Folio Dynamix",
+		"id": "a1E0y0000076NGtEAM"
+	}, {
+		"value": "American Portfolios Financial Services, Inc. Organization: Advisor's Solutions",
+		"id": "a1E0y0000076NGuEAM"
+	}, {
+		"value": "Envestnet: Envestnet - PMC Active Core",
+		"id": "a1E0y0000076NGvEAM"
+	}, {
+		"value": "Envestnet: Envestnet - PMC Active for Income",
+		"id": "a1E0y0000076NGwEAM"
+	}, {
+		"value": "RBC: Managed Account Program",
+		"id": "a1E0y0000076NGzEAM"
+	}, {
+		"value": "Charles Schwab Network: Retail Investor platform",
+		"id": "a1E0y0000076NIZEA2"
+	}, {
+		"value": "Charles Schwab Network: Schwab Retirement Plan",
+		"id": "a1E0y0000076NIaEAM"
+	}, {
+		"value": "Northern Trust Company Organization: Meridian",
+		"id": "a1E0y0000076NIbEAM"
+	}, {
+		"value": "AFD Direct Sales: American Funds Model Portfolios",
+		"id": "a1E0y0000076NIcEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: AssetMark",
+		"id": "a1E0y0000076NIeEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: MMLIS Wealth Management: Mutual Fund Portfolios (FSP)",
+		"id": "a1E0y0000076NIfEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: MMLIS Wealth Management: UMA Program",
+		"id": "a1E0y0000076NIgEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS Advisor Select",
+		"id": "a1E0y0000076NIhEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS Guided Portfolios",
+		"id": "a1E0y0000076NIiEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS SMA Select",
+		"id": "a1E0y0000076NIjEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS Strategist Select",
+		"id": "a1E0y0000076NIkEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS UMA Select",
+		"id": "a1E0y0000076NIlEAM"
+	}, {
+		"value": "Mass Mutual / MML / MSI: WMS UMA Select Premier",
+		"id": "a1E0y0000076NImEAM"
+	}, {
+		"value": "Fidelity Network Group: Fidelity Charitable Gift Foundation Platform",
+		"id": "a1E0y0000076NInEAM"
+	}, {
+		"value": "Envestnet: Fund Strategist Portfolio (FSP)",
+		"id": "a1E0y000009MqA1EAK"
+	}, {
+		"value": "BMO Financial Group: BMO Flex",
+		"id": "a1E0y000009MtqLEAS"
+	}, {
+		"value": "LPL Group: Envestnet UMA",
+		"id": "a1E0y000009MyFWEA0"
+	}, {
+		"value": "CLS Investments, LLC Organization: CLS Direct",
+		"id": "a1E0y000009MyPFEA0"
+	}, {
+		"value": "Cambridge Advisor Managed Account (CMAP)",
+		"id": "a1E1A000004A3cZUAS"
+	}, {
+		"value": "Cambridge Associates, LLC (USA) Organization: Cambridge Asset Allocation Program",
+		"id": "a1E1A000004A3ctUAC"
+	}, {
+		"value": "Merrill Lynch Banc of America: Merrill Lynch One: Custom Managed",
+		"id": "a1E1A000008nNSMUA2"
+	}, {
+		"value": "Morgan Stanley Smith Barney: Consulting and Evaluation Services (CES)",
+		"id": "a1E1A000008nQ2YUAU"
+	}, {
+		"value": "Citibank: Citi Advisor",
+		"id": "a1E1A000008nQmhUAE"
+	}, {
+		"value": "Citibank: Citi Portfolio Manager",
+		"id": "a1E1A000008nQnkUAE"
+	}, {
+		"value": "Janney Montgomery Scott: MSP (UMA)",
+		"id": "a1E1A000008nQotUAE"
+	}, {
+		"value": "BB&T Securities, LLC Organization: UMAP",
+		"id": "a1E1A000008nQt0UAE"
+	}, {
+		"value": "BB&T Securities, LLC Organization: UMAP Select",
+		"id": "a1E1A000008nQtcUAE"
+	}, {
+		"value": "UBS: ACCESS - SMA",
+		"id": "a1EC0000000zGXMMA2"
+	}, {
+		"value": "UBS: Managed Account Consulting (MAC) - SMA",
+		"id": "a1EC0000000zGXNMA2"
+	}, {
+		"value": "UBS: Private Wealth Solution (PWS) (SMA)",
+		"id": "a1EC0000000zGXOMA2"
+	}, {
+		"value": "UBS: PACE Select",
+		"id": "a1EC0000000zGXPMA2"
+	}, {
+		"value": "UBS: Pace Multi Advisor (Personalized Asset Consulting & Evaluation)",
+		"id": "a1EC0000000zGXQMA2"
+	}, {
+		"value": "UBS: Portfolio Management Program (PMP)",
+		"id": "a1EC0000000zGXRMA2"
+	}, {
+		"value": "UBS: Strategic Advisor",
+		"id": "a1EC0000000zGXSMA2"
+	}, {
+		"value": "UBS: Strategic Wealth Portfolio (SWP)",
+		"id": "a1EC0000000zGXTMA2"
+	}, {
+		"value": "LPL Group: Model Wealth Portfolios (MWP)",
+		"id": "a1EC0000000zGXUMA2"
+	}, {
+		"value": "LPL Group: Optimum Market Portfolios (OMP)",
+		"id": "a1EC0000000zGXVMA2"
+	}, {
+		"value": "LPL Group: Personal Wealth Portfolios (PWP)",
+		"id": "a1EC0000000zGXWMA2"
+	}, {
+		"value": "LPL Group: Manager Select",
+		"id": "a1EC0000000zGXXMA2"
+	}, {
+		"value": "Fidelity Network Group: Fidelity Institutional Wealth Services Platform",
+		"id": "a1E0y0000076NIoEAM"
+	}, {
+		"value": "Fidelity Network Group: Fidelity National Financial Services Platform",
+		"id": "a1E0y0000076NIpEAM"
+	}, {
+		"value": "Fidelity Network Group: Fidelity Personal Investing Platform",
+		"id": "a1E0y0000076NIqEAM"
+	}, {
+		"value": "Fidelity Network Group: Fidelity Workplace Investing Platform",
+		"id": "a1E0y0000076NIrEAM"
+	}, {
+		"value": "Fidelity Network Group: Portfolio Advisory Services (PAS)",
+		"id": "a1E0y0000076NIsEAM"
+	}, {
+		"value": "NMIS: Signature Advisor",
+		"id": "a1E0y0000076NItEAM"
+	}, {
+		"value": "NMIS: Signature Managed Accounts",
+		"id": "a1E0y0000076NIuEAM"
+	}, {
+		"value": "NMIS: Signature Private Client Services / Trust",
+		"id": "a1E0y0000076NIvEAM"
+	}, {
+		"value": "J.J.B. Hilliard Lyons: Diversified Managed Allocations (DMA)",
+		"id": "a1E0y0000076NIwEAM"
+	}, {
+		"value": "Edward Jones: Advisory Solutions Program - Mutual Funds (Customized Model)",
+		"id": "a1E0y0000076NIxEAM"
+	}, {
+		"value": "Deutsche Bank: Advisor Select",
+		"id": "a1E0y0000076NIyEAM"
+	}, {
+		"value": "Deutsche Bank: CIO Select",
+		"id": "a1E0y0000076NIzEAM"
+	}, {
+		"value": "Deutsche Bank: CIO Select Funds",
+		"id": "a1E0y0000076NJ0EAM"
+	}, {
+		"value": "Deutsche Bank: Consulting Direct",
+		"id": "a1E0y0000076NJ1EAM"
+	}, {
+		"value": "Citibank: Citi Guided Portfolio Manager",
+		"id": "a1E1A000008nQthUAE"
+	}, {
+		"value": "Citibank: UMA - Dynamic Allocation Portfolios",
+		"id": "a1E1A000008nQuCUAU"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - Horizon Choice",
+		"id": "a1E1A000008nRlWUAU"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - STRATIS",
+		"id": "a1E1A000008nRmKUAU"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: JPMS - UMA",
+		"id": "a1E1A000008nRmPUAU"
+	}, {
+		"value": "J.P. Morgan Chase Banc One: CWM - Portfolio Manager Program",
+		"id": "a1E1A000008nRmeUAE"
+	}, {
+		"value": "PNC - Vested Interest",
+		"id": "a1E1A000008nRniUAE"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Allocation Plus",
+		"id": "a1E1A000008nRo7UAE"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Advise",
+		"id": "a1E1A000008nRoCUAU"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Premier",
+		"id": "a1E1A000008nRoMUAU"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Fund Select Tactical",
+		"id": "a1E1A000008nRoWUAU"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Sentry",
+		"id": "a1E1A000008nRobUAE"
+	}, {
+		"value": "SunTrust Investment Services, Inc. Organization: AMC Pinnacle (UMA)",
+		"id": "a1E1A000008nRq0UAE"
+	}, {
+		"value": "Wells Fargo Network: Private Bank",
+		"id": "a1E1A000008nSG0UAM"
+	}, {
+		"value": "Robert W. Baird: Private Investment Management (PIM)",
+		"id": "a1E1A000008nSHSUA2"
+	}, {
+		"value": "Robert W. Baird: Align: UMA",
+		"id": "a1E1A000008nSHmUAM"
+	}, {
+		"value": "LPL Group: SAM & SAM II (Strategic Asset Management)",
+		"id": "a1EC0000000zGXYMA2"
+	}, {
+		"value": "LPL Group: Strategic Wealth Manager (SWM)",
+		"id": "a1EC0000000zGXZMA2"
+	}, {
+		"value": "Wells Fargo Network: Asset Advisor",
+		"id": "a1EC0000000zGXgMAM"
+	}, {
+		"value": "Wells Fargo Network: CustomChoice",
+		"id": "a1EC0000000zGXhMAM"
+	}, {
+		"value": "Wells Fargo Network: Diversified Managed Allocations (DMA)",
+		"id": "a1EC0000000zGXiMAM"
+	}, {
+		"value": "Wells Fargo Network: Fundamental Choice",
+		"id": "a1EC0000000zGXjMAM"
+	}, {
+		"value": "Wells Fargo Network: FundSource",
+		"id": "a1EC0000000zGXkMAM"
+	}, {
+		"value": "PIM",
+		"id": "a1EC0000000zGXlMAM"
+	}, {
+		"value": "Raymond James Group: Ambassador",
+		"id": "a1EC0000000zGXtMAM"
+	}, {
+		"value": "Raymond James Group: Freedom",
+		"id": "a1EC0000000zGY2MAM"
+	}],
+	"id": "Advisory_Platform__c.Name"
+}, {
+	"valueList": [{
+		"value": "Single",
+		"id": "Single"
+	}, {
+		"value": "Married",
+		"id": "Married"
+	}, {
+		"value": "Partner",
+		"id": "Partner"
+	}, {
+		"value": "Divorced",
+		"id": "Divorced"
+	}, {
+		"value": "Separated",
+		"id": "Separated"
+	}, {
+		"value": "Widowed",
+		"id": "Widowed"
+	}],
+	"id": "Contact.Marital_Status__c"
+}, {
+	"valueList": [{
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "ADP",
+		"id": "ADP"
+	}, {
+		"value": "AIG",
+		"id": "AIG"
+	}, {
+		"value": "Alerus",
+		"id": "Alerus"
+	}, {
+		"value": "American Funds",
+		"id": "American Funds"
+	}, {
+		"value": "Ascensus",
+		"id": "Ascensus"
+	}, {
+		"value": "ASPire",
+		"id": "ASPire"
+	}, {
+		"value": "Black Rock",
+		"id": "Black Rock"
+	}, {
+		"value": "CPI",
+		"id": "CPI"
+	}, {
+		"value": "DAC",
+		"id": "DAC"
+	}, {
+		"value": "DRS",
+		"id": "DRS"
+	}, {
+		"value": "Empower",
+		"id": "Empower"
+	}, {
+		"value": "ExpertPlan",
+		"id": "ExpertPlan"
+	}, {
+		"value": "Fidelity",
+		"id": "Fidelity"
+	}, {
+		"value": "Fidelity Adviser",
+		"id": "Fidelity Adviser"
+	}, {
+		"value": "Hartford",
+		"id": "Hartford"
+	}, {
+		"value": "John Hancock",
+		"id": "John Hancock"
+	}, {
+		"value": "Lincoln",
+		"id": "Lincoln"
+	}, {
+		"value": "Mass Mutual",
+		"id": "Mass Mutual"
+	}, {
+		"value": "Merrill Lynch",
+		"id": "Merrill Lynch"
+	}, {
+		"value": "Merrill Lynch / MLII",
+		"id": "Merrill Lynch / MLII"
+	}, {
+		"value": "Nationwide",
+		"id": "Nationwide"
+	}, {
+		"value": "Newport",
+		"id": "Newport"
+	}, {
+		"value": "NY Life",
+		"id": "NY Life"
+	}, {
+		"value": "One America",
+		"id": "One America"
+	}, {
+		"value": "Other",
+		"id": "Other"
+	}, {
+		"value": "PAI",
+		"id": "PAI"
+	}, {
+		"value": "Paychex",
+		"id": "Paychex"
+	}, {
+		"value": "Principal",
+		"id": "Principal"
+	}, {
+		"value": "Prudential",
+		"id": "Prudential"
+	}, {
+		"value": "Putnam",
+		"id": "Putnam"
+	}, {
+		"value": "Standard Insurance Co",
+		"id": "Standard Insurance Co"
+	}, {
+		"value": "Transamerica",
+		"id": "Transamerica"
+	}, {
+		"value": "Vanguard",
+		"id": "Vanguard"
+	}, {
+		"value": "Verisight",
+		"id": "Verisight"
+	}, {
+		"value": "Voya",
+		"id": "Voya"
+	}, {
+		"value": "Wells Fargo",
+		"id": "Wells Fargo"
+	}],
+	"id": "Contact.Top_Provider_1__c"
+}, {
+	"valueList": [{
+		"value": "-None-",
+		"id": "-None-"
+	}, {
+		"value": "ADP",
+		"id": "ADP"
+	}, {
+		"value": "AIG",
+		"id": "AIG"
+	}, {
+		"value": "Alerus",
+		"id": "Alerus"
+	}, {
+		"value": "American Funds",
+		"id": "American Funds"
+	}, {
+		"value": "Ascensus",
+		"id": "Ascensus"
+	}, {
+		"value": "ASPire",
+		"id": "ASPire"
+	}, {
+		"value": "Black Rock",
+		"id": "Black Rock"
+	}, {
+		"value": "CPI",
+		"id": "CPI"
+	}, {
+		"value": "DAC",
+		"id": "DAC"
+	}, {
+		"value": "DRS",
+		"id": "DRS"
+	}, {
+		"value": "Empower",
+		"id": "Empower"
+	}, {
+		"value": "ExpertPlan",
+		"id": "ExpertPlan"
+	}, {
+		"value": "Fidelity",
+		"id": "Fidelity"
+	}, {
+		"value": "Fidelity Adviser",
+		"id": "Fidelity Adviser"
+	}, {
+		"value": "Hartford",
+		"id": "Hartford"
+	}, {
+		"value": "John Hancock",
+		"id": "John Hancock"
+	}, {
+		"value": "Lincoln",
+		"id": "Lincoln"
+	}, {
+		"value": "Mass Mutual",
+		"id": "Mass Mutual"
+	}, {
+		"value": "Merrill Lynch",
+		"id": "Merrill Lynch"
+	}, {
+		"value": "Merrill Lynch / MLII",
+		"id": "Merrill Lynch / MLII"
+	}, {
+		"value": "Nationwide",
+		"id": "Nationwide"
+	}, {
+		"value": "Newport",
+		"id": "Newport"
+	}, {
+		"value": "NY Life",
+		"id": "NY Life"
+	}, {
+		"value": "One America",
+		"id": "One America"
+	}, {
+		"value": "Other",
+		"id": "Other"
+	}, {
+		"value": "PAI",
+		"id": "PAI"
+	}, {
+		"value": "Paychex",
+		"id": "Paychex"
+	}, {
+		"value": "Principal",
+		"id": "Principal"
+	}, {
+		"value": "Prudential",
+		"id": "Prudential"
+	}, {
+		"value": "Putnam",
+		"id": "Putnam"
+	}, {
+		"value": "Standard Insurance Co",
+		"id": "Standard Insurance Co"
+	}, {
+		"value": "Transamerica",
+		"id": "Transamerica"
+	}, {
+		"value": "Vanguard",
+		"id": "Vanguard"
+	}, {
+		"value": "Verisight",
+		"id": "Verisight"
+	}, {
+		"value": "Voya",
+		"id": "Voya"
+	}, {
+		"value": "Wells Fargo",
+		"id": "Wells Fargo"
+	}],
+	"id": "Contact.Top_Provider_3__c"
+}, {
+	"valueList": [{
+		"value": "1",
+		"id": "1"
+	}, {
+		"value": "2",
+		"id": "2"
+	}, {
+		"value": "3",
+		"id": "3"
+	}, {
+		"value": "4",
+		"id": "4"
+	}, {
+		"value": "5",
+		"id": "5"
+	}, {
+		"value": "6",
+		"id": "6"
+	}, {
+		"value": "7",
+		"id": "7"
+	}, {
+		"value": "8",
+		"id": "8"
+	}, {
+		"value": "9",
+		"id": "9"
+	}, {
+		"value": "10",
+		"id": "10"
+	}, {
+		"value": "11",
+		"id": "11"
+	}, {
+		"value": "12",
+		"id": "12"
+	}, {
+		"value": "13",
+		"id": "13"
+	}, {
+		"value": "14",
+		"id": "14"
+	}, {
+		"value": "15",
+		"id": "15"
+	}, {
+		"value": "16",
+		"id": "16"
+	}, {
+		"value": "17",
+		"id": "17"
+	}, {
+		"value": "18",
+		"id": "18"
+	}, {
+		"value": "19",
+		"id": "19"
+	}, {
+		"value": "20",
+		"id": "20"
+	}, {
+		"value": "21",
+		"id": "21"
+	}, {
+		"value": "22",
+		"id": "22"
+	}, {
+		"value": "23",
+		"id": "23"
+	}, {
+		"value": "24",
+		"id": "24"
+	}, {
+		"value": "25",
+		"id": "25"
+	}, {
+		"value": "26",
+		"id": "26"
+	}, {
+		"value": "27",
+		"id": "27"
+	}, {
+		"value": "28",
+		"id": "28"
+	}, {
+		"value": "29",
+		"id": "29"
+	}, {
+		"value": "30",
+		"id": "30"
+	}, {
+		"value": "31",
+		"id": "31"
+	}],
+	"id": "Contact.Birth_Date__c"
+}, {
+	"valueList": [{
+		"value": "Invited",
+		"id": "Invited"
+	}, {
+		"value": "RSVP",
+		"id": "RSVP"
+	}, {
+		"value": "Confirmed",
+		"id": "Confirmed"
+	}, {
+		"value": "Attended",
+		"id": "Attended"
+	}, {
+		"value": "Declined",
+		"id": "Declined"
+	}, {
+		"value": "No Show",
+		"id": "No Show"
+	}, {
+		"value": "Cancelled",
+		"id": "Cancelled"
+	}],
+	"id": "Attendee__c.Status__c"
+}]
